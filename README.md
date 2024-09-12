@@ -253,3 +253,12 @@ You now have a fully functional Hadoop setup on your Ubuntu Budgie system, ready
 You can save this content to a file named `README.md`. This file will guide you through setting up and configuring Hadoop on Ubuntu Budgie, including all necessary commands and configurations.
 
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SurajSia/my-license/blob/main/README.md) file for details.
+
+---
+
+MIT License
+
